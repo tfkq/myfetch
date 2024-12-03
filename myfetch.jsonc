@@ -1,0 +1,48 @@
+{
+  "colors": {
+    "title": "#7b3028",
+    "key": "#8e44ac",
+    "value": "#ffffff"
+  },
+  "logo": {
+    // currently no colors supported. supports all characters your console supports
+    "path": "ascii-art.txt"
+  },
+  "title": {
+    "name": "tfkq",
+    "pronouns": "he/him, er/ihm",
+    "year-of-birth": 2002
+  },
+  "modules": [
+    {
+      "key": "Occupation",
+      "value": "cs student"
+    },
+    {
+      "key": "Favourite Song",
+      "value": "Shine On You Crazy Diamond (Pts. I-V) - Pink Floyd"
+    },
+    {
+      "key": "Interests",
+      "value": "cs, arduino, raspberry pi, linux, blinky leds"
+    },
+    {
+      "key": "Nationality",
+      "value": "German"
+    },
+    {
+      "key": "Currently playing",
+      "value": "The Wandering Village, Dave the Diver"
+    }
+  ],
+  "socials": [
+    {
+      "site": "bluesky",
+      "handle": "@tiefkuehlqualle.bsky.social"
+    },
+    {
+      "site": "mastodon",
+      "handle": "@tfkq@cyberplace.social"
+    }
+  ]
+}
